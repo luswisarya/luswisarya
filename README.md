@@ -1,4 +1,11 @@
-<h3 align="center"> machine learning enthusiast  </h3>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=luswisarya&style=for-the-badge&label=profile+views"> &nbsp;
+  <img src="https://img.shields.io/github/last-commit/luswisarya/aNdr3W03?style=for-the-badge">
+</div>
+
+
+<h1 align="center"> Machine Learning Enthusiast  </div>
 <h3 align="center">going to china soon </br>
 i also know a little bit about web development </h3>
 <h3 align="center">Languages and Tools:</h3>
