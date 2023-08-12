@@ -3,7 +3,7 @@
 <h1 align="center"> Machine Learning Enthusiast  </div>
 <h3 align="center"></br>
 i also know a little bit about web development </br>
-"trying to be realistic"
+"trying to be realistic" </br>
   "freya"
 </h3>
   <div align="center">
