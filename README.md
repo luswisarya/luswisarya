@@ -4,6 +4,7 @@
 <h3 align="center"></br>
 i also know a little bit about web development </br>
 "trying to be realistic"
+  "freya"
 </h3>
   <div align="center">
   <img src="https://komarev.com/ghpvc/?username=luswisarya&style=for-the-badge&label=profile+views"> &nbsp;
