@@ -1,7 +1,5 @@
-
-
 <h1 align="center"> Machine Learning Enthusiast  </div>
-<h3 align="center"></br>
+<h3 align="center"> capek men</br>
   "freya"
 </h3>
   <div align="center">
