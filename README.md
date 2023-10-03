@@ -1,6 +1,5 @@
 <h1 align="center"> Machine Learning Enthusiast  </div>
-<h3 align="center"> capek men</br>
-  "freya"
+<h3 align="center"> half dead</br>
 </h3>
   <div align="center">
   <img src="https://komarev.com/ghpvc/?username=luswisarya&style=for-the-badge&label=profile+views"> &nbsp;
