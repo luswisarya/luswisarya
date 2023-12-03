@@ -1,5 +1,6 @@
 <h1 align="center"> Machine Learning Enthusiast  </div>
-<h3 align="center"> half dead</br>
+<h3 align="center"> im back</br>
+  lezgo beasiswa s2
   apa itu skripsi
 </h3>
   <div align="center">
