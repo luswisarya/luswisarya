@@ -1,6 +1,6 @@
 <h1 align="center"> Machine Learning Enthusiast  </div>
 <h3 align="center"> im back</br>
-  lezgo beasiswa s2
+  lezgo beasiswa s2 </br>
   apa itu skripsi
 </h3>
   <div align="center">
