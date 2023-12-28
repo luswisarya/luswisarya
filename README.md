@@ -2,6 +2,7 @@
 <h3 align="center"> im back</br>
   lezgo beasiswa s2 </br>
   apa itu skripsi
+  mampir ke [sini](https://www.linkedin.com/luswisarya)
 </h3>
   <div align="center">
   <img src="https://komarev.com/ghpvc/?username=luswisarya&style=for-the-badge&label=profile+views"> &nbsp;
@@ -13,7 +14,3 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luswisarya&theme=dark" alt="luswisarya" /></p>
 <p align="center"> <a href="https://twitter.com/infidelrya" target="blank"><img src="https://img.shields.io/twitter/follow/infidelrya?logo=twitter&style=for-the-badge" alt="infidelrya" /></a> </p>
-<p align="center">
-  <a target="blank" href="https://www.linkedin.com/luswisarya">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
