@@ -14,6 +14,6 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luswisarya&theme=dark" alt="luswisarya" /></p>
 <p align="center"> <a href="https://twitter.com/infidelrya" target="blank"><img src="https://img.shields.io/twitter/follow/infidelrya?logo=twitter&style=for-the-badge" alt="infidelrya" /></a> </p>
 <p align="center">
-  <a href="https://www.linkedin.com/luswisarya" rel="nofollow noreferrer">
+  <a target="blank" href="https://www.linkedin.com/luswisarya">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
