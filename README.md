@@ -13,3 +13,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luswisarya&theme=dark" alt="luswisarya" /></p>
 <p align="center"> <a href="https://twitter.com/infidelrya" target="blank"><img src="https://img.shields.io/twitter/follow/infidelrya?logo=twitter&style=for-the-badge" alt="infidelrya" /></a> </p>
+<p align="center"> <a href="https://linkedin.com/luswisarya" target="blank"><img src="https://img.shields.io/linkedin/follow/luswisarya?logo=linkedin&style=for-the-badge" alt="luswisarya" /></a> </p>
