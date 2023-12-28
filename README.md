@@ -2,7 +2,7 @@
 <h3 align="center"> im back</br>
   lezgo beasiswa s2 </br>
   apa itu skripsi
-  mampir ke [sini](https://www.linkedin.com/luswisarya)
+  mampir ke <a href=”https://www.linkedin.com/luswisarya/" target=”_blank” rel=”noreferrer”>sini</a>
 </h3>
   <div align="center">
   <img src="https://komarev.com/ghpvc/?username=luswisarya&style=for-the-badge&label=profile+views"> &nbsp;
