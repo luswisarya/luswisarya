@@ -1,7 +1,6 @@
 <h1 align="center"> Machine Learning Enthusiast  </div>
 <h3 align="center"> im back</br>
-  lezgo beasiswa s2 </br>
-  apa itu skripsi
+  official jobless </br>
 </h3>
   <div align="center">
   <img src="https://komarev.com/ghpvc/?username=luswisarya&style=for-the-badge&label=profile+views"> &nbsp;
